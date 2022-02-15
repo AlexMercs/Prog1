@@ -3,7 +3,7 @@
 #include "Graph.h"
 
 /*
-g++ main.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o elso `fltk-config --ldflags --use-images`
+g++ week1drill.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o week1drill `fltk-config --ldflags --use-images`
 */
 
 int main(){
