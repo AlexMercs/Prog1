@@ -51,9 +51,9 @@ try{
 	e.set_color(Color::dark_red);
 	Mark m{Point{450,330},'.'};
 
-	Image ii{Point (620,50), "image.jpg"};
+	Image ii{Point (620,50), "badge.jpg"};
 
-	Image ii2{Point(640,70), "image2.jpg"};
+	Image ii2{Point(640,70), "badge.jpg"};
 
 
 	win.attach(xa);
